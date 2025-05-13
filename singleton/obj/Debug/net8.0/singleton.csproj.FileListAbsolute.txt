@@ -1,0 +1,14 @@
+C:\Projects\New folder\design_patterns\singleton\obj\Debug\net8.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\New folder\design_patterns\singleton\obj\Debug\net8.0\singleton.AssemblyInfoInputs.cache
+C:\Projects\New folder\design_patterns\singleton\obj\Debug\net8.0\singleton.AssemblyInfo.cs
+C:\Projects\New folder\design_patterns\singleton\obj\Debug\net8.0\singleton.csproj.CoreCompileInputs.cache
+C:\Projects\New folder\design_patterns\singleton\bin\Debug\net8.0\singleton.exe
+C:\Projects\New folder\design_patterns\singleton\bin\Debug\net8.0\singleton.deps.json
+C:\Projects\New folder\design_patterns\singleton\bin\Debug\net8.0\singleton.runtimeconfig.json
+C:\Projects\New folder\design_patterns\singleton\bin\Debug\net8.0\singleton.dll
+C:\Projects\New folder\design_patterns\singleton\bin\Debug\net8.0\singleton.pdb
+C:\Projects\New folder\design_patterns\singleton\obj\Debug\net8.0\singleton.dll
+C:\Projects\New folder\design_patterns\singleton\obj\Debug\net8.0\refint\singleton.dll
+C:\Projects\New folder\design_patterns\singleton\obj\Debug\net8.0\singleton.pdb
+C:\Projects\New folder\design_patterns\singleton\obj\Debug\net8.0\singleton.genruntimeconfig.cache
+C:\Projects\New folder\design_patterns\singleton\obj\Debug\net8.0\ref\singleton.dll
